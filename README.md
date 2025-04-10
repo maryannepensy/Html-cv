@@ -13,4 +13,4 @@ This repository contains the HTML code for my online CV, showcasing my skills as
 **Connect:**
 * GitHub:https://github.com/maryannepensy/Html-cv
   
-* 
+  
